@@ -1,0 +1,9 @@
+[Ll]og.txt
+
+.vs/
+x64/
+[Dd]ebug/
+[Rr]elease/
+
+*.vcxproj.filter
+*.vcxproj.user
