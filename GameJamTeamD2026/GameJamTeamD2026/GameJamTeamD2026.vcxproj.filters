@@ -13,6 +13,15 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Rsource">
+      <UniqueIdentifier>{488be790-356e-4f0b-bc5b-6d1d8693047e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rsource\Images">
+      <UniqueIdentifier>{f3087083-9fed-4fa0-81dd-61970b9f4936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rsource\Sounds">
+      <UniqueIdentifier>{97dbee45-e347-471d-8d0f-29940928b106}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AppMain.cpp">
